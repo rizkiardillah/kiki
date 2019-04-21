@@ -1,0 +1,2 @@
+# kiki
+algoritma 2
